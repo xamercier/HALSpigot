@@ -1,0 +1,4 @@
+name: LectusHALSpigot
+version: 1.0
+main: ca.xamercier.hal.spigot.HALSpigot
+authors: [com002 , xamercier]
